@@ -16,4 +16,5 @@ Every Path - Test
 -N=14 
 -E=18 
 - E-N+2 = 6 
+![2](https://user-images.githubusercontent.com/63560820/84569289-a6dd5480-ad85-11ea-8955-252c65e18c37.png)
 
